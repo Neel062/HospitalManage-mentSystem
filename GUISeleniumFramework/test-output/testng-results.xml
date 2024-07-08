@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testng-results ignored="8" total="13" passed="5" failed="0" skipped="0">
+=======
+<<<<<<< HEAD
+<testng-results ignored="4" total="9" passed="5" failed="0" skipped="0">
+=======
+<testng-results ignored="2" total="7" passed="5" failed="0" skipped="0">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+  <reporter-output>
+    <line>
+<<<<<<< HEAD
+      <![CDATA[Report confifguration]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>CancelAppointmentTest>===START======]]>
+    </line>
+    <line>
+      <![CDATA[===patient login===]]>
+    </line>
+    <line>
+      <![CDATA[Kani]]>
+    </line>
+    <line>
+      <![CDATA[Cardiology12]]>
+    </line>
+    <line>
+      <![CDATA[data enterds]]>
+    </line>
+    <line>
+      <![CDATA[appointment====]]>
+    </line>
+    <line>
+      <![CDATA[Appointment History is clicked]]>
+    </line>
+    <line>
+      <![CDATA[24]]>
+    </line>
+    <line>
+      <![CDATA[completed]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>CancelAppointmentTest>=====END======]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>PatientSearch>===START======]]>
+    </line>
+    <line>
+      <![CDATA[DOCTOR login]]>
+    </line>
+    <line>
+      <![CDATA[===patient is ceated===]]>
+    </line>
+    <line>
+      <![CDATA[patientsearch ---clicked]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>PatientSearch>=====END======]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>adminTest>===START======]]>
+    </line>
+    <line>
+      <![CDATA[Ronit_1313]]>
+    </line>
+    <line>
+      <![CDATA[WestBengal]]>
+    </line>
+    <line>
+      <![CDATA[Kolkata]]>
+    </line>
+    <line>
+      <![CDATA[neel_1539]]>
+    </line>
+    <line>
+      <![CDATA[@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[123456]]>
+    </line>
+    <line>
+      <![CDATA[123456]]>
+    </line>
+    <line>
+      <![CDATA[succefully]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>adminTest>=====END======]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>AppHistoryTest>===START======]]>
+    </line>
+    <line>
+      <![CDATA[===patient login===]]>
+    </line>
+    <line>
+      <![CDATA[Kani]]>
+    </line>
+    <line>
+      <![CDATA[Cardiology12]]>
+    </line>
+    <line>
+      <![CDATA[data enterds]]>
+    </line>
+    <line>
+      <![CDATA[24]]>
+    </line>
+    <line>
+      <![CDATA[completed]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>AppHistoryTest>=====END======]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>CancelAppointmentTest>===START======]]>
+    </line>
+    <line>
+      <![CDATA[===patient login===]]>
+    </line>
+    <line>
+      <![CDATA[Kani]]>
+    </line>
+    <line>
+      <![CDATA[Cardiology12]]>
+    </line>
+    <line>
+      <![CDATA[appointment====]]>
+    </line>
+    <line>
+      <![CDATA[Appointment History is clicked]]>
+    </line>
+    <line>
+      <![CDATA[24]]>
+    </line>
+    <line>
+      <![CDATA[completed]]>
+    </line>
+    <line>
+      <![CDATA[===== =====>CancelAppointmentTest>=====END======]]>
+=======
+<<<<<<< HEAD
+      <![CDATA[Navigating to doctor in Admin Module]]>
+    </line>
+    <line>
+      <![CDATA[Verifying title of add doctor page]]>
+    </line>
+    <line>
+      <![CDATA[Doctor details is added successfully]]>
+    </line>
+    <line>
+      <![CDATA[Handling Alert]]>
+    </line>
+    <line>
+      <![CDATA[Handled Alert]]>
+    </line>
+    <line>
+      <![CDATA[Added Doctor verify in Manage doctor page]]>
+    </line>
+    <line>
+      <![CDATA[Added Doctor is verified]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on addPatients dropdown and manage patient]]>
+    </line>
+    <line>
+      <![CDATA[Invoke the method and passing all details]]>
+    </line>
+    <line>
+      <![CDATA[Doctor able to fetch the patient details]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on addPatients dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Verifying the title]]>
+    </line>
+    <line>
+      <![CDATA[Verifying the title]]>
+    </line>
+    <line>
+      <![CDATA[Creating patient]]>
+    </line>
+    <line>
+      <![CDATA[Verifying ManagePatient page]]>
+    </line>
+    <line>
+      <![CDATA[Verifying managepatient page]]>
+    </line>
+    <line>
+      <![CDATA[Adding patient with entering all details]]>
+    </line>
+    <line>
+      <![CDATA[Verifying the title]]>
+    </line>
+    <line>
+      <![CDATA[Title is verified]]>
+    </line>
+    <line>
+      <![CDATA[Verifying the title]]>
+    </line>
+    <line>
+      <![CDATA[Title is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Verification is done]]>
+    </line>
+    <line>
+      <![CDATA[Appointment is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Appointment is Booked]]>
+    </line>
+    <line>
+      <![CDATA[Appointment History page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Verifying Appointment is canceled or not]]>
+    </line>
+    <line>
+      <![CDATA[Booking appointment is canceled]]>
+=======
+      <![CDATA[==Add paitient==]]>
+    </line>
+    <line>
+      <![CDATA[==Adding Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[----Doctor created-----]]>
+    </line>
+    <line>
+      <![CDATA[==Manage  Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[=Admin logged out successfully=]]>
+    </line>
+    <line>
+      <![CDATA[=Doctor able to login=]]>
+    </line>
+    <line>
+      <![CDATA[=AddPatient page is displayed=]]>
+    </line>
+    <line>
+      <![CDATA[=Patient added successfully=]]>
+    </line>
+    <line>
+      <![CDATA[=AddPatient page is displayed=]]>
+    </line>
+    <line>
+      <![CDATA[=Doctor logged out successfully=]]>
+    </line>
+    <line>
+      <![CDATA[==admin dashboard page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[==paitent details page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[--patient details displayed---]]>
+    </line>
+    <line>
+      <![CDATA[==Deleting User==]]>
+    </line>
+    <line>
+      <![CDATA[=Admin logged out successfully=]]>
+    </line>
+    <line>
+      <![CDATA[=Login page is displayed=]]>
+    </line>
+    <line>
+      <![CDATA[=user createded successfully=]]>
+    </line>
+    <line>
+      <![CDATA[=Login page is displayed=]]>
+    </line>
+    <line>
+      <![CDATA[==admin dashboard page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[==User details page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[--completed---]]>
+    </line>
+    <line>
+      <![CDATA[==Adding Doctor==]]>
+    </line>
+    <line>
+      <![CDATA[==Adding Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[----Doctor created-----]]>
+    </line>
+    <line>
+      <![CDATA[==Manage  Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[=Admin logged out successfully=]]>
+    </line>
+    <line>
+      <![CDATA[=Doctor able to login=]]>
+    </line>
+    <line>
+      <![CDATA[=Doctor logged out successfully=]]>
+    </line>
+    <line>
+      <![CDATA[==deleting Doctor details==]]>
+    </line>
+    <line>
+      <![CDATA[==Adding Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[----Doctor created-----]]>
+    </line>
+    <line>
+      <![CDATA[==Manage  Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[==Doctor deleted successfully==]]>
+    </line>
+    <line>
+      <![CDATA[==Editinging Doctor details==]]>
+    </line>
+    <line>
+      <![CDATA[==Adding Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[----Doctor created-----]]>
+    </line>
+    <line>
+      <![CDATA[==Manage  Doctor page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[==Edit Doctor Details page is displayed==]]>
+    </line>
+    <line>
+      <![CDATA[editing of fees successfully]]>
+    </line>
+    <line>
+      <![CDATA[editing of ph_no successfully]]>
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+    </line>
+  </reporter-output>
+<<<<<<< HEAD
+  <suite started-at="2024-07-08T12:54:56 IST" name="Suite" finished-at="2024-07-08T12:56:45 IST" duration-ms="108725">
+=======
+<<<<<<< HEAD
+  <suite started-at="2024-07-07T13:47:15Z" name="Suite" finished-at="2024-07-07T13:49:44Z" duration-ms="149751">
+=======
+  <suite started-at="2024-07-06T07:41:18Z" name="Suite" finished-at="2024-07-06T07:45:01Z" duration-ms="223134">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+    <groups>
+    </groups>
+<<<<<<< HEAD
+    <test started-at="2024-07-08T12:54:56 IST" name="Test" finished-at="2024-07-08T12:56:45 IST" duration-ms="108725">
+      <class name="com.aekudaan.hms.hmsTest.AppntmntHistry_NC">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.aekudaan.hms.hmsTest.AppntmntHistry_NC@791f145a]" started-at="2024-07-08T12:55:57 IST" name="configBC" finished-at="2024-07-08T12:56:01 IST" duration-ms="3634" status="PASS">
+=======
+<<<<<<< HEAD
+    <test started-at="2024-07-07T13:47:15Z" name="Test" finished-at="2024-07-07T13:49:44Z" duration-ms="149751">
+      <class name="com.comcast.hms.doctorModule.AddPatientWithEnteringAllDetailsAndVerifyInManagePatients">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcast.hms.doctorModule.AddPatientWithEnteringAllDetailsAndVerifyInManagePatients@58be6e8]" started-at="2024-07-07T13:48:56Z" name="configBC" finished-at="2024-07-07T13:49:08Z" duration-ms="12506" status="PASS">
+=======
+    <test started-at="2024-07-06T07:41:18Z" name="Test" finished-at="2024-07-06T07:45:01Z" duration-ms="223134">
+      <class name="com.comcase.crm.Admin1.Admin1_Doctor_Test">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:43:11Z" name="configBC" finished-at="2024-07-06T07:43:26Z" duration-ms="14981" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+<<<<<<< HEAD
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.aekudaan.hms.hmsTest.AppntmntHistry_NC@791f145a]" started-at="2024-07-08T12:56:01 IST" name="configBM" finished-at="2024-07-08T12:56:03 IST" duration-ms="2339" status="PASS">
+=======
+<<<<<<< HEAD
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.hms.doctorModule.AddPatientWithEnteringAllDetailsAndVerifyInManagePatients@58be6e8]" started-at="2024-07-07T13:49:08Z" name="configBM" finished-at="2024-07-07T13:49:11Z" duration-ms="2878" status="PASS">
+=======
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:43:26Z" name="configBM" finished-at="2024-07-06T07:43:43Z" duration-ms="17457" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+<<<<<<< HEAD
+        <test-method signature="AppHistoryTest()[pri:0, instance:com.aekudaan.hms.hmsTest.AppntmntHistry_NC@791f145a]" started-at="2024-07-08T12:56:03 IST" name="AppHistoryTest" finished-at="2024-07-08T12:56:18 IST" duration-ms="15143" status="PASS">
+=======
+<<<<<<< HEAD
+        <test-method signature="addPatientWithName_Contact()[pri:0, instance:com.comcast.hms.doctorModule.AddPatientWithEnteringAllDetailsAndVerifyInManagePatients@58be6e8]" started-at="2024-07-07T13:49:11Z" name="addPatientWithName_Contact" finished-at="2024-07-07T13:49:17Z" duration-ms="5842" status="PASS">
+=======
+        <test-method signature="addDoctor()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:43:43Z" name="addDoctor" finished-at="2024-07-06T07:44:03Z" duration-ms="19870" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+          <reporter-output>
+            <line>
+<<<<<<< HEAD
+              <![CDATA[===== =====>AppHistoryTest>===START======]]>
+            </line>
+            <line>
+              <![CDATA[===patient login===]]>
+            </line>
+            <line>
+              <![CDATA[Kani]]>
+            </line>
+            <line>
+              <![CDATA[Cardiology12]]>
+            </line>
+            <line>
+              <![CDATA[data enterds]]>
+            </line>
+            <line>
+              <![CDATA[24]]>
+            </line>
+            <line>
+              <![CDATA[completed]]>
+            </line>
+            <line>
+              <![CDATA[===== =====>AppHistoryTest>=====END======]]>
+=======
+<<<<<<< HEAD
+              <![CDATA[Adding patient with entering all details]]>
+            </line>
+            <line>
+              <![CDATA[Verifying the title]]>
+            </line>
+            <line>
+              <![CDATA[Title is verified]]>
+            </line>
+            <line>
+              <![CDATA[Verifying the title]]>
+            </line>
+            <line>
+              <![CDATA[Title is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Verification is done]]>
+=======
+              <![CDATA[==Adding Doctor==]]>
+            </line>
+            <line>
+              <![CDATA[==Adding Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[----Doctor created-----]]>
+            </line>
+            <line>
+              <![CDATA[==Manage  Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[=Admin logged out successfully=]]>
+            </line>
+            <line>
+              <![CDATA[=Doctor able to login=]]>
+            </line>
+            <line>
+              <![CDATA[=Doctor logged out successfully=]]>
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+            </line>
+          </reporter-output>
+<<<<<<< HEAD
+        </test-method> <!-- AppHistoryTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.aekudaan.hms.hmsTest.AppntmntHistry_NC@791f145a]" started-at="2024-07-08T12:56:18 IST" name="configAM" finished-at="2024-07-08T12:56:19 IST" duration-ms="1097" status="PASS">
+=======
+<<<<<<< HEAD
+        </test-method> <!-- addPatientWithName_Contact -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.hms.doctorModule.AddPatientWithEnteringAllDetailsAndVerifyInManagePatients@58be6e8]" started-at="2024-07-07T13:49:17Z" name="configAM" finished-at="2024-07-07T13:49:18Z" duration-ms="752" status="PASS">
+=======
+        </test-method> <!-- addDoctor -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:03Z" name="configAM" finished-at="2024-07-06T07:44:05Z" duration-ms="1845" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+<<<<<<< HEAD
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.aekudaan.hms.hmsTest.AppntmntHistry_NC@791f145a]" started-at="2024-07-08T12:56:19 IST" name="configAC" finished-at="2024-07-08T12:56:20 IST" duration-ms="411" status="PASS">
+=======
+<<<<<<< HEAD
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcast.hms.doctorModule.AddPatientWithEnteringAllDetailsAndVerifyInManagePatients@58be6e8]" started-at="2024-07-07T13:49:18Z" name="configAC" finished-at="2024-07-07T13:49:18Z" duration-ms="650" status="PASS">
+=======
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:05Z" name="configBM" finished-at="2024-07-06T07:44:08Z" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="deleteDoctor()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:08Z" name="deleteDoctor" finished-at="2024-07-06T07:44:25Z" duration-ms="16761" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==deleting Doctor details==]]>
+            </line>
+            <line>
+              <![CDATA[==Adding Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[----Doctor created-----]]>
+            </line>
+            <line>
+              <![CDATA[==Manage  Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[==Doctor deleted successfully==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteDoctor -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:25Z" name="configAM" finished-at="2024-07-06T07:44:28Z" duration-ms="2677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:28Z" name="configBM" finished-at="2024-07-06T07:44:36Z" duration-ms="7810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="editDoctor()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:36Z" name="editDoctor" finished-at="2024-07-06T07:44:55Z" duration-ms="19003" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Editinging Doctor details==]]>
+            </line>
+            <line>
+              <![CDATA[==Adding Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[----Doctor created-----]]>
+            </line>
+            <line>
+              <![CDATA[==Manage  Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[==Edit Doctor Details page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[editing of fees successfully]]>
+            </line>
+            <line>
+              <![CDATA[editing of ph_no successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editDoctor -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:55Z" name="configAM" finished-at="2024-07-06T07:44:57Z" duration-ms="2516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcase.crm.Admin1.Admin1_Doctor_Test@1c33c17b]" started-at="2024-07-06T07:44:57Z" name="configAC" finished-at="2024-07-06T07:45:01Z" duration-ms="4262" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+<<<<<<< HEAD
+      </class> <!-- com.aekudaan.hms.hmsTest.AppntmntHistry_NC -->
+      <class name="com.aekudaan.hms.hmsTest.AdminTest_NC">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.aekudaan.hms.hmsTest.AdminTest_NC@1e0b4072]" started-at="2024-07-08T12:55:41 IST" name="configBC" finished-at="2024-07-08T12:55:45 IST" duration-ms="3969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.aekudaan.hms.hmsTest.AdminTest_NC@1e0b4072]" started-at="2024-07-08T12:55:45 IST" name="configBM" finished-at="2024-07-08T12:55:48 IST" duration-ms="2745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="adminTest()[pri:0, instance:com.aekudaan.hms.hmsTest.AdminTest_NC@1e0b4072]" started-at="2024-07-08T12:55:48 IST" name="adminTest" finished-at="2024-07-08T12:55:56 IST" duration-ms="7931" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===== =====>adminTest>===START======]]>
+            </line>
+            <line>
+              <![CDATA[Ronit_1313]]>
+            </line>
+            <line>
+              <![CDATA[WestBengal]]>
+            </line>
+            <line>
+              <![CDATA[Kolkata]]>
+            </line>
+            <line>
+              <![CDATA[neel_1539]]>
+            </line>
+            <line>
+              <![CDATA[@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[123456]]>
+            </line>
+            <line>
+              <![CDATA[123456]]>
+            </line>
+            <line>
+              <![CDATA[succefully]]>
+            </line>
+            <line>
+              <![CDATA[===== =====>adminTest>=====END======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- adminTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.aekudaan.hms.hmsTest.AdminTest_NC@1e0b4072]" started-at="2024-07-08T12:55:56 IST" name="configAM" finished-at="2024-07-08T12:55:57 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.aekudaan.hms.hmsTest.AdminTest_NC@1e0b4072]" started-at="2024-07-08T12:55:57 IST" name="configAC" finished-at="2024-07-08T12:55:57 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.aekudaan.hms.hmsTest.AdminTest_NC -->
+      <class name="com.aekudaan.hms.hmsTest.Patient_NC">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.aekudaan.hms.hmsTest.Patient_NC@4686afc2]" started-at="2024-07-08T12:55:25 IST" name="configBC" finished-at="2024-07-08T12:55:29 IST" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.aekudaan.hms.hmsTest.Patient_NC@4686afc2]" started-at="2024-07-08T12:55:29 IST" name="configBM" finished-at="2024-07-08T12:55:31 IST" duration-ms="2174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="PatientSearch()[pri:0, instance:com.aekudaan.hms.hmsTest.Patient_NC@4686afc2]" started-at="2024-07-08T12:55:31 IST" name="PatientSearch" finished-at="2024-07-08T12:55:40 IST" duration-ms="9303" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===== =====>PatientSearch>===START======]]>
+            </line>
+            <line>
+              <![CDATA[DOCTOR login]]>
+            </line>
+            <line>
+              <![CDATA[===patient is ceated===]]>
+            </line>
+            <line>
+              <![CDATA[patientsearch ---clicked]]>
+            </line>
+            <line>
+              <![CDATA[===== =====>PatientSearch>=====END======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PatientSearch -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.aekudaan.hms.hmsTest.Patient_NC@4686afc2]" started-at="2024-07-08T12:55:40 IST" name="configAM" finished-at="2024-07-08T12:55:41 IST" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.aekudaan.hms.hmsTest.Patient_NC@4686afc2]" started-at="2024-07-08T12:55:41 IST" name="configAC" finished-at="2024-07-08T12:55:41 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.aekudaan.hms.hmsTest.Patient_NC -->
+      <class name="com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC@25641d39]" started-at="2024-07-08T12:54:56 IST" name="configBS" finished-at="2024-07-08T12:54:56 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC@25641d39]" started-at="2024-07-08T12:54:56 IST" name="configBC" finished-at="2024-07-08T12:55:01 IST" duration-ms="4762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC@25641d39]" started-at="2024-07-08T12:55:01 IST" name="configBM" finished-at="2024-07-08T12:55:04 IST" duration-ms="2654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CancelAppointmentTest()[pri:0, instance:com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC@25641d39]" started-at="2024-07-08T12:55:04 IST" name="CancelAppointmentTest" finished-at="2024-07-08T12:55:24 IST" duration-ms="19872" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===== =====>CancelAppointmentTest>===START======]]>
+            </line>
+            <line>
+              <![CDATA[===patient login===]]>
+            </line>
+            <line>
+              <![CDATA[Kani]]>
+            </line>
+            <line>
+              <![CDATA[Cardiology12]]>
+            </line>
+            <line>
+              <![CDATA[data enterds]]>
+            </line>
+            <line>
+              <![CDATA[appointment====]]>
+            </line>
+            <line>
+              <![CDATA[Appointment History is clicked]]>
+            </line>
+            <line>
+              <![CDATA[24]]>
+            </line>
+            <line>
+              <![CDATA[completed]]>
+            </line>
+            <line>
+              <![CDATA[===== =====>CancelAppointmentTest>=====END======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CancelAppointmentTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC@25641d39]" started-at="2024-07-08T12:55:24 IST" name="configAM" finished-at="2024-07-08T12:55:25 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC@25641d39]" started-at="2024-07-08T12:55:25 IST" name="configAC" finished-at="2024-07-08T12:55:25 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC@25641d39]" started-at="2024-07-08T12:56:45 IST" name="configAS" finished-at="2024-07-08T12:56:45 IST" duration-ms="0" status="PASS">
+=======
+<<<<<<< HEAD
+      </class> <!-- com.comcast.hms.doctorModule.AddPatientWithEnteringAllDetailsAndVerifyInManagePatients -->
+      <class name="com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest@2ef14fe]" started-at="2024-07-07T13:47:15Z" name="configBS" finished-at="2024-07-07T13:47:15Z" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName@77102b91]" started-at="2024-07-07T13:47:15Z" name="configBS" finished-at="2024-07-07T13:47:15Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory@45312be2]" started-at="2024-07-07T13:47:15Z" name="configBS" finished-at="2024-07-07T13:47:15Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest@2ef14fe]" started-at="2024-07-07T13:47:15Z" name="configBC" finished-at="2024-07-07T13:47:31Z" duration-ms="16396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest@2ef14fe]" started-at="2024-07-07T13:47:31Z" name="configBM" finished-at="2024-07-07T13:47:40Z" duration-ms="9060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CreateDoctorAndVerify()[pri:0, instance:com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest@2ef14fe]" started-at="2024-07-07T13:47:40Z" name="CreateDoctorAndVerify" finished-at="2024-07-07T13:47:50Z" duration-ms="10050" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to doctor in Admin Module]]>
+            </line>
+            <line>
+              <![CDATA[Verifying title of add doctor page]]>
+            </line>
+            <line>
+              <![CDATA[Doctor details is added successfully]]>
+            </line>
+            <line>
+              <![CDATA[Handling Alert]]>
+            </line>
+            <line>
+              <![CDATA[Handled Alert]]>
+            </line>
+            <line>
+              <![CDATA[Added Doctor verify in Manage doctor page]]>
+            </line>
+            <line>
+              <![CDATA[Added Doctor is verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateDoctorAndVerify -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest@2ef14fe]" started-at="2024-07-07T13:47:50Z" name="configAM" finished-at="2024-07-07T13:47:51Z" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest@2ef14fe]" started-at="2024-07-07T13:47:51Z" name="configAC" finished-at="2024-07-07T13:47:52Z" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest@2ef14fe]" started-at="2024-07-07T13:49:44Z" name="configAS" finished-at="2024-07-07T13:49:44Z" duration-ms="0" status="PASS">
+=======
+      </class> <!-- com.comcase.crm.Admin1.Admin1_Doctor_Test -->
+      <class name="com.comcase.crm.Admin1.Admin1_patient_user_Test">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:41:18Z" name="configBS" finished-at="2024-07-06T07:41:18Z" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:41:18Z" name="configBC" finished-at="2024-07-06T07:41:46Z" duration-ms="27688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:41:46Z" name="configBM" finished-at="2024-07-06T07:41:51Z" duration-ms="5181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addPaitient()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:41:51Z" name="addPaitient" finished-at="2024-07-06T07:42:42Z" duration-ms="51047" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Add paitient==]]>
+            </line>
+            <line>
+              <![CDATA[==Adding Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[----Doctor created-----]]>
+            </line>
+            <line>
+              <![CDATA[==Manage  Doctor page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[=Admin logged out successfully=]]>
+            </line>
+            <line>
+              <![CDATA[=Doctor able to login=]]>
+            </line>
+            <line>
+              <![CDATA[=AddPatient page is displayed=]]>
+            </line>
+            <line>
+              <![CDATA[=Patient added successfully=]]>
+            </line>
+            <line>
+              <![CDATA[=AddPatient page is displayed=]]>
+            </line>
+            <line>
+              <![CDATA[=Doctor logged out successfully=]]>
+            </line>
+            <line>
+              <![CDATA[==admin dashboard page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[==paitent details page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[--patient details displayed---]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addPaitient -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:42:42Z" name="configAM" finished-at="2024-07-06T07:42:45Z" duration-ms="2230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:42:45Z" name="configBM" finished-at="2024-07-06T07:42:49Z" duration-ms="4309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="deleteUser()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:42:49Z" name="deleteUser" finished-at="2024-07-06T07:43:07Z" duration-ms="18576" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Deleting User==]]>
+            </line>
+            <line>
+              <![CDATA[=Admin logged out successfully=]]>
+            </line>
+            <line>
+              <![CDATA[=Login page is displayed=]]>
+            </line>
+            <line>
+              <![CDATA[=user createded successfully=]]>
+            </line>
+            <line>
+              <![CDATA[=Login page is displayed=]]>
+            </line>
+            <line>
+              <![CDATA[==admin dashboard page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[==User details page is displayed==]]>
+            </line>
+            <line>
+              <![CDATA[--completed---]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:43:07Z" name="configAM" finished-at="2024-07-06T07:43:09Z" duration-ms="1528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:43:09Z" name="configAC" finished-at="2024-07-06T07:43:11Z" duration-ms="1652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcase.crm.Admin1.Admin1_patient_user_Test@13ad5cd3]" started-at="2024-07-06T07:45:02Z" name="configAS" finished-at="2024-07-06T07:45:02Z" duration-ms="2" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+<<<<<<< HEAD
+      </class> <!-- com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC -->
+      <class name="com.aekudaan.hms.hmsTest.cancellingCancelBtnApntmntHstry_NC">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.aekudaan.hms.hmsTest.cancellingCancelBtnApntmntHstry_NC@38cee291]" started-at="2024-07-08T12:56:20 IST" name="configBC" finished-at="2024-07-08T12:56:23 IST" duration-ms="3425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.aekudaan.hms.hmsTest.cancellingCancelBtnApntmntHstry_NC@38cee291]" started-at="2024-07-08T12:56:23 IST" name="configBM" finished-at="2024-07-08T12:56:25 IST" duration-ms="2260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CancelAppointmentTest()[pri:0, instance:com.aekudaan.hms.hmsTest.cancellingCancelBtnApntmntHstry_NC@38cee291]" started-at="2024-07-08T12:56:25 IST" name="CancelAppointmentTest" finished-at="2024-07-08T12:56:43 IST" duration-ms="17539" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===== =====>CancelAppointmentTest>===START======]]>
+            </line>
+            <line>
+              <![CDATA[===patient login===]]>
+            </line>
+            <line>
+              <![CDATA[Kani]]>
+            </line>
+            <line>
+              <![CDATA[Cardiology12]]>
+            </line>
+            <line>
+              <![CDATA[appointment====]]>
+            </line>
+            <line>
+              <![CDATA[Appointment History is clicked]]>
+            </line>
+            <line>
+              <![CDATA[24]]>
+            </line>
+            <line>
+              <![CDATA[completed]]>
+            </line>
+            <line>
+              <![CDATA[===== =====>CancelAppointmentTest>=====END======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CancelAppointmentTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.aekudaan.hms.hmsTest.cancellingCancelBtnApntmntHstry_NC@38cee291]" started-at="2024-07-08T12:56:43 IST" name="configAM" finished-at="2024-07-08T12:56:44 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.aekudaan.hms.hmsTest.cancellingCancelBtnApntmntHstry_NC@38cee291]" started-at="2024-07-08T12:56:44 IST" name="configAC" finished-at="2024-07-08T12:56:45 IST" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.aekudaan.hms.hmsTest.cancellingCancelBtnApntmntHstry_NC -->
+=======
+<<<<<<< HEAD
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName@77102b91]" started-at="2024-07-07T13:49:44Z" name="configAS" finished-at="2024-07-07T13:49:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory@45312be2]" started-at="2024-07-07T13:49:44Z" name="configAS" finished-at="2024-07-07T13:49:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.comcast.hms.doctorModule.AddDoctorAndVerifyInManageDoctorPageTest -->
+      <class name="com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName@77102b91]" started-at="2024-07-07T13:47:52Z" name="configBC" finished-at="2024-07-07T13:47:57Z" duration-ms="5186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName@77102b91]" started-at="2024-07-07T13:47:57Z" name="configBM" finished-at="2024-07-07T13:48:04Z" duration-ms="6792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addingPatientAndSearch()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName@77102b91]" started-at="2024-07-07T13:48:04Z" name="addingPatientAndSearch" finished-at="2024-07-07T13:48:10Z" duration-ms="6450" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on addPatients dropdown and manage patient]]>
+            </line>
+            <line>
+              <![CDATA[Invoke the method and passing all details]]>
+            </line>
+            <line>
+              <![CDATA[Doctor able to fetch the patient details]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addingPatientAndSearch -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName@77102b91]" started-at="2024-07-07T13:48:10Z" name="configAM" finished-at="2024-07-07T13:48:11Z" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName@77102b91]" started-at="2024-07-07T13:48:11Z" name="configAC" finished-at="2024-07-07T13:48:11Z" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.comcast.hms.doctorModule.DoctorAddPatientAndSearchWithName -->
+      <class name="com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest@7fb95505]" started-at="2024-07-07T13:48:11Z" name="configBC" finished-at="2024-07-07T13:48:36Z" duration-ms="24814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest@7fb95505]" started-at="2024-07-07T13:48:36Z" name="configBM" finished-at="2024-07-07T13:48:42Z" duration-ms="5652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addMedicalHistory()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest@7fb95505]" started-at="2024-07-07T13:48:42Z" name="addMedicalHistory" finished-at="2024-07-07T13:48:54Z" duration-ms="11880" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on addPatients dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Verifying the title]]>
+            </line>
+            <line>
+              <![CDATA[Verifying the title]]>
+            </line>
+            <line>
+              <![CDATA[Creating patient]]>
+            </line>
+            <line>
+              <![CDATA[Verifying ManagePatient page]]>
+            </line>
+            <line>
+              <![CDATA[Verifying managepatient page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addMedicalHistory -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest@7fb95505]" started-at="2024-07-07T13:48:54Z" name="configAM" finished-at="2024-07-07T13:48:55Z" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest@7fb95505]" started-at="2024-07-07T13:48:55Z" name="configAC" finished-at="2024-07-07T13:48:56Z" duration-ms="984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest -->
+      <class name="com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory@45312be2]" started-at="2024-07-07T13:49:18Z" name="configBC" finished-at="2024-07-07T13:49:25Z" duration-ms="6822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory@45312be2]" started-at="2024-07-07T13:49:25Z" name="configBM" finished-at="2024-07-07T13:49:29Z" duration-ms="3792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="BookingAndCancelAppointment()[pri:0, instance:com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory@45312be2]" started-at="2024-07-07T13:49:29Z" name="BookingAndCancelAppointment" finished-at="2024-07-07T13:49:43Z" duration-ms="14059" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Appointment is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Appointment is Booked]]>
+            </line>
+            <line>
+              <![CDATA[Appointment History page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Verifying Appointment is canceled or not]]>
+            </line>
+            <line>
+              <![CDATA[Booking appointment is canceled]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BookingAndCancelAppointment -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory@45312be2]" started-at="2024-07-07T13:49:43Z" name="configAM" finished-at="2024-07-07T13:49:44Z" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory@45312be2]" started-at="2024-07-07T13:49:44Z" name="configAC" finished-at="2024-07-07T13:49:44Z" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.comcast.hms.doctorModule.BookAndCancelAppointmentAndViewInAppointmentHistory -->
+=======
+      </class> <!-- com.comcase.crm.Admin1.Admin1_patient_user_Test -->
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

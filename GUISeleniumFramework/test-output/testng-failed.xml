@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+=======
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+<<<<<<< HEAD
+      <class name="com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC">
+=======
+<<<<<<< HEAD
+      <class name="com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest">
+=======
+      <class name="com.comcase.crm.Admin1.Admin1_patient_user_Test">
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+        <methods>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          <include name="configAM"/>
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+          <include name="configBS"/>
+          <include name="configBC"/>
+          <include name="configAS"/>
+          <include name="configAC"/>
+<<<<<<< HEAD
+          <include name="CancelAppointmentTest"/>
+          <include name="configBM"/>
+          <include name="configAM"/>
+=======
+<<<<<<< HEAD
+          <include name="addMedicalHistory"/>
+          <include name="configBM"/>
+          <include name="configAM"/>
+=======
+          <include name="addPaitient"/>
+          <include name="configBM"/>
+          <include name="deleteUser"/>
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+        </methods>
+<<<<<<< HEAD
+      </class> <!-- com.aekudaan.hms.hmsTest.CancelAppointmentHistory_NC -->
+=======
+<<<<<<< HEAD
+      </class> <!-- com.comcast.hms.doctorModule.DoctorAddingMedicalHistoryTest -->
+=======
+      </class> <!-- com.comcase.crm.Admin1.Admin1_patient_user_Test -->
+>>>>>>> branch 'master' of https://github.com/AnbumathiM/GUIFramework.git
+>>>>>>> branch 'master' of https://github.com/Neel062/GUIFramework.git
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
